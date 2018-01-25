@@ -1,12 +1,13 @@
-## Your Name
+## Sam Johnson
 
-After spending 4 years working abroad I felt the need for a new challenge and having been interested in computer science for some time I chose to take on programming. Although early days, I really being able 
-to build up something from scratch, it can be the most frustrating thing in the world but there's no greater feeling than getting it a program to work.
-
-I have just completed the precourse and about to start 12 weeks intensive training at Makers Academy. When I've completed the course I would like to work for an environmentally minded organisation being able to use tech
-to improve conservation.
+A full-stack developer with a history in marine science. Recently graduated from a highly selective coding academy with a broad skill set and hunger to create.
+I looking for a postion in a productive environment where I can build on my skill set and grow with a company.
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+
+#PROJECTS
+
+
 
 ## Skills
 
@@ -46,15 +47,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Marine Biology
+- 2:2
+- 
 
 #### Any other qualifications
+- Emergency First Response Instructor
+- Padi dive instructor
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+Blue Ventures (06/2015 to 07/2017)    
+Field Scientist  
 **Company Name** (start_date to end_date)   
 *Your job title*  
