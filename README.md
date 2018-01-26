@@ -1,4 +1,4 @@
-## Sam Johnson
+# Sam Johnson
 
 A full-stack developer with a history in marine science. Recently graduated from a highly selective coding academy with a broad skill set and hunger to create. Being a scientist I was also intrigued by how things function and this interet is what inspired me to become a developer.
 I looking for a postion in an innovative and productive environment where I can build on my skill set and grow with a company.
@@ -47,15 +47,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+##Newcastle University (09/2010 - 06/2014)
 
-- Marine Biology
-- 2:2
+- BSc Hons in Marine Biology: 2:2
+- Completed an independent research project
+- Scientific method and statistical analyses
+
+##St. Edward's school, Oxford (2003 - 2009)
+- A levels: A, B, B in French, Biology and Geography
 -
-
-#### Any other qualifications
-- Emergency First Response Instructor
-- Padi dive instructor
 
 ## Experience
 
