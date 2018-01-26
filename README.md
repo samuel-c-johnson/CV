@@ -7,7 +7,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 #PROJECTS
 
-Projects (#projects) | Skills | Education | Experience | Hobbies and Interests | Website
+[Projects] (#projects) | Skills | Education | Experience | Hobbies and Interests | Website
 
 ## Skills
 
@@ -32,7 +32,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-##Projects 
+##Projects
 
 ## Education
 
