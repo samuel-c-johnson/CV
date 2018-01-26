@@ -7,7 +7,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 #PROJECTS
 
-Projects | Skills | Education | Experience | Hobbies and Interests | Website
+Projects (#projects) | Skills | Education | Experience | Hobbies and Interests | Website
 
 ## Skills
 
@@ -17,7 +17,7 @@ Having worked as a dive instructor and a field scientist I have developed sound 
 communication I have managed to ensure safety andmanage risk.
 As a dive instructor it was paramount that I convey the importance of certain skills and behaviours not only to ensure safety but also to relate to often nervous clients.
 In Madagascar working as a field scientist I was in charge of large groups of volunteers in an extremely remote environment. Communication was key in order to educate and inform about potential dangers
-and to make sure everyone was alright. 
+and to make sure everyone was alright.
 
 - Experience
 - Achievements
@@ -31,6 +31,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+##Projects 
 
 ## Education
 
@@ -49,7 +51,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Marine Biology
 - 2:2
-- 
+-
 
 #### Any other qualifications
 - Emergency First Response Instructor
