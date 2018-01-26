@@ -1,13 +1,13 @@
 ## Sam Johnson
 
-A full-stack developer with a history in marine science. Recently graduated from a highly selective coding academy with a broad skill set and hunger to create.
-I looking for a postion in a productive environment where I can build on my skill set and grow with a company.
+A full-stack developer with a history in marine science. Recently graduated from a highly selective coding academy with a broad skill set and hunger to create. Being a scientist I was also intrigued by how things function and this interet is what inspired me to become a developer.
+I looking for a postion in an innovative and productive environment where I can build on my skill set and grow with a company.
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 #PROJECTS
 
-
+Projects | Skills | Education | Experience | Hobbies and Interests | Website
 
 ## Skills
 
