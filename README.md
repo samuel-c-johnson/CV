@@ -1,13 +1,30 @@
-# Sam Johnson
+# <p align="center"> Sam Johnson </p>
+<p align="center"> samuel.c.johnson2@gmail.com
 
-A full-stack developer with a history in marine science. Recently graduated from a highly selective coding academy with a broad skill set and hunger to create. Being a scientist I was also intrigued by how things function and this interet is what inspired me to become a developer.
-I looking for a postion in an innovative and productive environment where I can build on my skill set and grow with a company.
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+| [About Me](#about-Me) | [Education](#education) | [Skills](#skills) | [Experience](#experience) |
 
-#PROJECTS
 
-[Projects] (#projects) | Skills | Education | Experience | Hobbies and Interests | Website
+## About Me
+A full-stack developer with a history in marine science. Recently graduated from a highly selective coding academy with a broad skill set and hunger to create. Being a scientist I was intrigued by how things function and this interest is what inspired me to become a developer.
+I'm looking for a position in an innovative and productive environment where I can build on my skill set and grow with a company.
+
+
+
+## Education
+### Makers Academy (11/17 - 02/18)
+A 16 week intensive software development course with a focus on delivering high quality code in an agile environment.
+
+- Test Driven Development
+- Object-Oriented Programming
+- Extreme Programming
+- Pair Programming
+- Full-Stack Web Development: Ruby, Rails, Javascript, jQuery, Datbases, RSpec, Jasmine etc..
+
+#### Projects
+|  Project  |      Description    |  Technologies |
+| --------- | :-----------------: | :-----------: |
+|  Yelp     | A group project where the goal was to build a version of Yelp whilst using/learning Ruby on Rails | Ruby, Rails,  
 
 ## Skills
 
