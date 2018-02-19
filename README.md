@@ -39,7 +39,7 @@ Whether it is working in a foreign country or building a full-stack app in a new
 ## Experience
 
 **Blue Ventures, Madagascar** (2015 - 2017) *Field Scientist*   
-+ Data Collection & Analysis, Education, Community Outreach, Team Management
++ Data Collection, Statistical Analysis, Education, Community Outreach, Team Management
 
 **Coral Point, Dominican Republic** (2013 - 2015) *Dive Instructor*
 + Teaching Courses, Leading Dives, Gear Maintenance, Customer Service
@@ -73,4 +73,5 @@ A 16 week intensive software development course with a focus on delivering high 
 + Certified Padi dive instructor
 + Raised over £3000 for scholarship fund to send underprivileged children to school in S.E Madagascar.
 + Audiophile
++ Sports enthusaist
 + A keen interest in the natural environment
