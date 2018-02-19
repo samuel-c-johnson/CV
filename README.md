@@ -65,7 +65,7 @@ A 16 week intensive software development course with a focus on delivering high 
 #### St. Edward's school, Oxford (2003 - 2009)
 - A levels: A, B, B in French, Biology and Geography
 
-____
+
 
 ## Achievements & Interests
 + Well travelled: S. America, N. America, Africa, Australia, Asia, Europe
