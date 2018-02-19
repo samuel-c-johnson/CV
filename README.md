@@ -39,7 +39,7 @@ Whether it is working in a foreign country or building a full-stack app in a new
 ## Experience
 
 **Blue Ventures, Madagascar** (2015 - 2017) *Field Scientist*   
-+ Data Collection, Statistical Analysis, Education, Community Outreach, Team Management
++ Data Collection, Statistical Analysis, Human Development, Education, Community Outreach, Team Management
 
 **Coral Point, Dominican Republic** (2013 - 2015) *Dive Instructor*
 + Teaching Courses, Leading Dives, Gear Maintenance, Customer Service
