@@ -73,5 +73,5 @@ A 16 week intensive software development course with a focus on delivering high 
 + Certified Padi dive instructor
 + Raised over £3000 for scholarship fund to send underprivileged children to school in S.E Madagascar.
 + Audiophile
-+ Sports enthusaist
++ Sports enthusiast
 + A keen interest in the natural environment
