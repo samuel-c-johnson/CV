@@ -24,10 +24,10 @@ A 16 week intensive software development course with a focus on delivering high 
 #### Projects
 |  Project  |      Description    |  Technologies |
 | :---------: | :-----------------: | :-----------: |
-|  Scrambled Jpeggs | A sliding picture puzzle game. Built as a final project where the goal of the group was to build a full-stack application in a new language.  | Swift, Xcode |
-|   Yelp  | A group project where the goal was to build a version of Yelp whilst using/learning Ruby on Rails | Ruby, Rails, Jasmine |
-|  Bowling Challenge  | A solo weekend challenge to create a 10 pin bowling game having learnt JS during the week | Javascript, Jasmine |
-| Chitter Challenge | Solo project to build a clone of Twitter | Ruby, Sinatra, Capybara, Rspec, DataMapper |
+|  [Scrambled Jpeggs](https://github.com/samuel-c-johnson/Scrambled-Jpeggs) | A sliding picture puzzle game. Built as a final project where the goal of the group was to build a full-stack application in a new language.  | Swift, Xcode |
+|   [Yelp](https://github.com/samuel-c-johnson/rails-yelp)  | A group project where the goal was to build a version of Yelp whilst using/learning Ruby on Rails | Ruby, Rails, Jasmine |
+|  [Bowling Challenge](https://github.com/samuel-c-johnson/bowling-challenge)  | A solo weekend challenge to create a 10 pin bowling game having learnt JS during the week | Javascript, Jasmine |
+| [Chitter Challenge](https://github.com/samuel-c-johnson/chitter-challenge) | Solo project to build a clone of Twitter | Ruby, Sinatra, Capybara, Rspec, DataMapper |
 
 
 ## Skills
