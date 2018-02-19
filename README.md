@@ -1,25 +1,16 @@
 # <p align="center"> Sam Johnson </p>
 <p align="center"> samuel.c.johnson2@gmail.com
+<p align="center"> https://github.com/samuel-c-johnson
 
 
 | [About Me](#about-Me) | [Education](#education) | [Skills](#skills) | [Experience](#experience) |
 
 
 ## About Me
-A full-stack developer with a history in marine science. Recently graduated from a highly selective coding academy with a broad skill set and hunger to create. Being a scientist I was intrigued by how things function and this interest is what inspired me to become a developer.
+A full-stack developer with a history in marine science. Highly
+adaptable with sound problem solving abilities developed through working in remote areas with little resources in a results based industry. Recently graduated from a highly selective coding academy with a broad skill set and hunger to create. Being a scientist I was intrigued by how things function and this interest is what inspired me to become a developer.
 I'm looking for a position in an innovative and productive environment where I can build on my skill set and grow with a company.
 
-
-
-## Education
-### Makers Academy (11/17 - 02/18)
-A 16 week intensive software development course with a focus on delivering high quality code in an agile environment.
-
-- Test Driven Development
-- Object-Oriented Programming
-- Extreme Programming
-- Pair Programming
-- Full-Stack Web Development: Ruby, Rails, Javascript, jQuery, SQL, RSpec, Jasmine, Sinatra, DataMapper
 
 #### Projects
 |  Project  |      Description    |  Technologies |
@@ -32,55 +23,54 @@ A 16 week intensive software development course with a focus on delivering high 
 
 ## Skills
 
-#### Excellent Communication Skills
+#### Collaborator
 
-Having worked as a dive instructor and a field scientist I have developed sound communications skills. It has been essential in my previous employment working in potentially dangerous environments, with good
-communication I have managed to ensure safety and manage risk.
-As a dive instructor it was paramount that I convey the importance of certain skills and behaviours not only to ensure safety but also to relate to often nervous clients.
-In Madagascar working as a field scientist I was in charge of large groups of volunteers in an extremely remote environment. Communication was key in order to educate and inform about potential dangers
-and to make sure everyone was alright.
+Through my previous experience working in the field, I have learnt the value of working well as a group. I have a deep understanding of the importance of the soft-skills such as communication, conflict management, trust and leadership that are required to function as an effective team.
 
-- Experience
-- Achievements
-- Evidence
 
-#### Another Skill
+#### Driven
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I enjoy being out of my comfort zone and taking on new challenges. After University I bought a one way ticket to the Dominican Republic in order to learn a new language and develop a new skill (dive instructor) to improve my employability as a marine biologist.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Adaptable
 
-##Projects
+Whether it is working in a foreign country or building a full-stack app in a new language in 2 weeks, I can adapt to the task at hand. My time abroad has taught me to deal with unforeseen problems and how to find the suitable solutions. At Makers Academy we 'learn to learn' and it was through this process that I have been able to adapt to working in new languages so quickly.
+
+## Experience
+
+**Blue Ventures, Madagascar** (2015 - 2017) *Field Scientist*   
++ Data Collection & Analysis, Education, Community Outreach, Team Management
+
+**Coral Point, Dominican Republic** (2013 - 2015) *Dive Instructor*
++ Teaching Courses, Leading Dives, Gear Maintenance, Customer Service
+
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (11/17 - 02/18)
+A 16 week intensive software development course with a focus on delivering high quality code in an agile environment.
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Test Driven Development
+- Object-Oriented Programming
+- Extreme Programming
+- Pair Programming
+- Full-Stack Web Development: Ruby, Rails, Javascript, jQuery, SQL, RSpec, Jasmine, Sinatra, DataMapper
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-##Newcastle University (09/2010 - 06/2014)
+#### Newcastle University (09/2010 - 06/2014)
 
 - BSc Hons in Marine Biology: 2:2
 - Completed an independent research project
 - Scientific method and statistical analyses
 
-##St. Edward's school, Oxford (2003 - 2009)
+#### St. Edward's school, Oxford (2003 - 2009)
 - A levels: A, B, B in French, Biology and Geography
--
 
-## Experience
+____
 
-Blue Ventures (06/2015 to 07/2017)    
-Field Scientist  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+## Achievements & Interests
++ Well travelled: S. America, N. America, Africa, Australia, Asia, Europe
++ Spoken languages: English, French (intermediate), Spanish (intermediate), Malagasy (basic)
++ Certified Padi dive instructor
++ Raised over £3000 for scholarship fund to send underprivileged children to school in S.E Madagascar.
++ Audiophile
++ A keen interest in the natural environment
