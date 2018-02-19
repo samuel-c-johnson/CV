@@ -19,20 +19,23 @@ A 16 week intensive software development course with a focus on delivering high 
 - Object-Oriented Programming
 - Extreme Programming
 - Pair Programming
-- Full-Stack Web Development: Ruby, Rails, Javascript, jQuery, Datbases, RSpec, Jasmine etc..
+- Full-Stack Web Development: Ruby, Rails, Javascript, jQuery, SQL, RSpec, Jasmine, Sinatra, DataMapper
 
 #### Projects
 |  Project  |      Description    |  Technologies |
-| --------- | :-----------------: | :-----------: |
-|  Yelp     | A group project where the goal was to build a version of Yelp whilst using/learning Ruby on Rails | Ruby, Rails, Jasmine |
-|
+| :---------: | :-----------------: | :-----------: |
+|  Scrambled Jpeggs | A sliding picture puzzle game. Built as a final project where the goal of the group was to build a full-stack application in a new language.  | Swift, Xcode |
+|   Yelp  | A group project where the goal was to build a version of Yelp whilst using/learning Ruby on Rails | Ruby, Rails, Jasmine |
+|  Bowling Challenge  | A solo weekend challenge to create a 10 pin bowling game having learnt JS during the week | Javascript, Jasmine |
+| Chitter Challenge | Solo project to build a clone of Twitter | Ruby, Sinatra, Capybara, Rspec, DataMapper |
+
 
 ## Skills
 
 #### Excellent Communication Skills
 
-Having worked as a dive instructor and a field scientist I have developed sound communications skills. It has been essential in my previous employment working in potentially dangerous environemnts, with good
-communication I have managed to ensure safety andmanage risk.
+Having worked as a dive instructor and a field scientist I have developed sound communications skills. It has been essential in my previous employment working in potentially dangerous environments, with good
+communication I have managed to ensure safety and manage risk.
 As a dive instructor it was paramount that I convey the importance of certain skills and behaviours not only to ensure safety but also to relate to often nervous clients.
 In Madagascar working as a field scientist I was in charge of large groups of volunteers in an extremely remote environment. Communication was key in order to educate and inform about potential dangers
 and to make sure everyone was alright.
