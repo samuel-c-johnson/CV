@@ -24,7 +24,8 @@ A 16 week intensive software development course with a focus on delivering high 
 #### Projects
 |  Project  |      Description    |  Technologies |
 | --------- | :-----------------: | :-----------: |
-|  Yelp     | A group project where the goal was to build a version of Yelp whilst using/learning Ruby on Rails | Ruby, Rails,  
+|  Yelp     | A group project where the goal was to build a version of Yelp whilst using/learning Ruby on Rails | Ruby, Rails, Jasmine |
+|
 
 ## Skills
 
