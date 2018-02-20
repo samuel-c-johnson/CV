@@ -8,7 +8,7 @@
 
 ## About Me
 A full-stack developer with a history in marine science. Highly
-adaptable with sound problem solving abilities developed through working in remote areas with little resources in a results based industry. Recently graduated from a highly selective coding academy with a broad skill set and hunger to create. Being a scientist I was intrigued by how things function and this interest is what inspired me to become a developer.
+adaptable with sound problem solving abilities developed through working in remote areas with little resources in a data driven organisation. Recently graduated from a highly selective coding academy with a broad skill set and hunger to create. Being a scientist I was intrigued by how things function and this interest is what inspired me to become a developer.
 I'm looking for a position in an innovative and productive environment where I can build on my skill set and grow with a company.
 
 
@@ -25,7 +25,7 @@ I'm looking for a position in an innovative and productive environment where I c
 
 #### Collaborator
 
-Through my previous experience working in the field, I have learnt the value of working well as a group. I have a deep understanding of the importance of the soft-skills such as communication, conflict management, trust and leadership that are required to function as an effective team.
+Through my previous experience working in the field, I have learnt the value of working well as a group. I have a deep understanding of the importance of the soft-skills such as communication, conflict management, trust and leadership that are required to function as an effective team. These were honed during my time in Madagascar where I was in charge of large groups of volunteers. We were working in an extreme, remote environment and leadership and cohesion amongst the team were essential.
 
 
 #### Driven
